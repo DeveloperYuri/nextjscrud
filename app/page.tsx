@@ -119,7 +119,7 @@ export default function Home() {
     <>
       <div className="container my-5">
         <Toaster />
-        <h3 className="mb-4">CRUD CI CD</h3>
+        <h3 className="mb-4">CRUD Student Management</h3>
         <div className="row">
           <div className="col-md-4">
             <div className="card mb-4">
