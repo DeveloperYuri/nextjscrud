@@ -2,7 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Next App with Supabase",
+  title: "Next App with Supabase ubah",
 };
 
 export default function RootLayout({
